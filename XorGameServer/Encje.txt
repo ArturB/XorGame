@@ -1,0 +1,140 @@
+Surowce:
+	 - Metal (+)
+	 - Cristal (+)
+	 - Deuter (+)
+	 - Antimatter (+)
+	 - Energy (+)
+
+Budynki:
+	 - MetalMine (+)
+	 - CristalMine (+)
+	 - DeuterExt (+)
+	 - Fusion (+)
+	 - Accelerator (+)
+	 - MetalMag (+)
+	 - CristalMag (+)
+	 - DeuterMag (+)
+	 - AntimatterMag
+	 - Robot (+)
+	 - Nanit (+)
+	 - Shipyard (+)
+	 - Observatory (+)
+	 - Laboratory (+)
+	 - ResearchNet (+)
+	 - RayShield (+)
+	 
+Budynki księżycowe:
+	 - MoonObservatory (+)
+	 - OrbitalShipyard (+)
+	 - Teleporter (+)
+	 - Robot (+)
+	 - Nanit (+)
+	 - Shipyard (+)
+	 - MetalMag (+)
+	 - CristalMag (+)
+	 - DeuterMag (+)
+	 - AntimatterMag
+
+Technologie:
+	 - Energetic (+)
+	 - Nanotechnology (+)
+	 - Astrophysics (+)
+	 - Hyperspace (+)
+	 - Astronavigation (+)
+	 - Laser (+)
+	 - Ion (+)
+	 - Plasma (+)
+	 - Gravitons (+)
+	 - Combat (+)
+	 - Shield (+)
+	 - Material (+)
+	 - IonEngine (+)
+	 - HyperEngine (+)
+	
+Obrona:
+	 - RocketLauncher (+)
+	 - LaserGun (+)
+	 - TurboLaserGun (+)
+	 - IonGun (+)
+	 - TractorGun (+)
+	 - PlasmaGun (+)
+	 - HeavyPlasmaGun (+)
+	
+Statki:
+	 - SolarSat (+)
+	 - Transporter (+)
+	 - Freighter (+)
+	 - Recycler (+)
+	 - Colonizer (+)
+	 - SpySond (+)
+	 - Fighter (+)
+	 - IonFighter (+)
+	 - Frigate (+)
+	 - Bomber (+)
+	 - Cruiser (+)
+	 - Drednot (+)
+	 - Destroyer (+)
+	 - DeathStar (+)
+	 
+Misje floty:
+	 - Transportuj (T)
+	 - Stacjonuj   (S)
+	 - Kolonizuj   (K)
+	 - Szpieguj    (SZ)
+	 - Recykluj    (R)
+	 - Atakuj      (A)
+	 - Niszcz      (N)
+	 
+	 
+	 
+Wywołania kontrolera:
+	 - addStar            +
+	 - addEmptyPlanet     +
+	 - addEmptyMoon       +
+	 - deletePlanet       +
+	 - deleteMoon         +
+	 
+	 - addNewUser         +
+	 - setUserNick        +
+	 - setUserPassword    +
+	 - setUserUrlop       +
+	 - colonizePlanet     +
+	 - abandonPlanet      +
+	 - sendMessage        +
+	 - deleteUser         +
+	 
+	 
+	 - updateResources
+	 - updateOrders
+	 - updateFlights
+	 - buildUpPlanetBuilding
+	 - buildUpMoonBuilding
+	 - buildUpTech
+	 - buildInShipyard
+	 - sendFleet
+	 
+	 
+Funkcje pomocnicze:
+	 - buildingProductivity
+	 - itemCostMetal
+	 - itemCostCristal
+	 - itemCostDeuter
+	 - itemCostAntimatter
+	 - itemTimeToBuild
+	 - fleetCapacity
+	 - fleetFuelUsage
+	 - fleetTimeToFly
+	 
+	 
+	  PODGLĄD
+	  BUDYNKI
+	  BADANIA
+	 STOCZNIA
+	  OBRONA
+	   FLOTA
+	 GALAKTYKA
+	 UTAWIENIA
+	 
+	 
+	 
+	 

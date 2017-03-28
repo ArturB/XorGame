@@ -1,0 +1,6 @@
+/* This software is licensed under XorGame 1.0 license. License does not expire.
+ * Can be used for creating unlimited applications.
+ * Can be distributed in binary or object form only.
+ * Non-commercial use only.
+ * Cannot modify source-code for any purpose (cannot create derivative works).
+ */
